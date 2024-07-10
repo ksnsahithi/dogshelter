@@ -11,6 +11,7 @@ header {
     color: black;
     font-family: Georgia;
     padding: 1em;
+    text-align: center;
 }
 
 header img {
@@ -23,7 +24,7 @@ header h1 {
     display: inline-block;
     text-align: center;
     margin-right: 10px;
-    margin-bottom: 0; /* Remove the default margin-bottom for inline-block */
+    margin-bottom: 10; /* Remove the default margin-bottom for inline-block */
 }
 
 header p {
